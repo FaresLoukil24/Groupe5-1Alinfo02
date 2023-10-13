@@ -25,6 +25,6 @@ public class Main {
         return Math.pow(base, exponent);
     }
     public int Func(){
-        return 0;
+        return 34;
     }
 }
