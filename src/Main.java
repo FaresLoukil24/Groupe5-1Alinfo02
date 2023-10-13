@@ -5,6 +5,9 @@ public class Main {
     public boolean isEven(int n) {
         return n % 2 == 0;
     }
+    public boolean isNotEven(int n) {
+        return n % 2 != 0;
+    }
 
     public boolean isPrime(int n) {
         if (n <= 1) {
