@@ -25,4 +25,7 @@ public class Main {
     public double power(double base, double exponent) {
         return Math.pow(base, exponent);
     }
+    public int Stron(){
+        return 234;
+    }
 }
