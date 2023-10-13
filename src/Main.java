@@ -5,7 +5,6 @@ public class Main {
     public boolean isEven(int n) {
         return n % 2 == 0;
     }
-
     public boolean isPrime(int n) {
         if (n <= 1) {
             return false;
@@ -24,5 +23,8 @@ public class Main {
 
     public double power(double base, double exponent) {
         return Math.pow(base, exponent);
+    }
+    public int Func(){
+        return 0;
     }
 }
