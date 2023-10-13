@@ -34,4 +34,7 @@ public class Main {
     public int Stron(){
         return 234;
     }
+    public int Stronss(){
+        return 5555;
+    }
 }
