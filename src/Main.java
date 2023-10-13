@@ -9,6 +9,7 @@ public class Main {
         return n % 2 != 0;
     }
     public String test () {return  "test";}
+    public String test2 () {return  "test2";}
     public boolean isPrime(int n) {
         if (n <= 1) {
             return false;
