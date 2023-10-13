@@ -13,6 +13,10 @@ public class Main {
         return sum;
     }
 
+    public int test789() {
+        return 0
+    }
+
 
     public double average(int[] array) {
         int sum = sum(array);
