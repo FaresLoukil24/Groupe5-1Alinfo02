@@ -8,7 +8,7 @@ public class Main {
     public boolean isNotEven(int n) {
         return n % 2 != 0;
     }
-
+    public String test () {return  "test";}
     public boolean isPrime(int n) {
         if (n <= 1) {
             return false;
