@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# Exclude IntelliJ IDEA project files
+.idea/
+Groupe5-1Alinfo02.iml
